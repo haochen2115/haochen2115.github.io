@@ -24,13 +24,14 @@
 
 ### Job
 #### Ant Group - Algorithm Engineer (2021-Now)
-- LLM Alignment for Financial Agent (2023)
-    - Continue pretrain with financial report and books
-    - Full-parameter SFT with instructions
-    - RL(DPO,KTO,OAIF etc) for preference alignment 
-    - Long-context window with YaRN, ReROPE 
-- Multi-relational Dynamic Graph Neural Network for Stock Movement Prediction (2022)
-- Fund Recommendation System Based on Dynamic Graph (2021)
+- LLM Alignment for Financial Agent (2023-2024)
+    - Continue pretrain+SFT with financial report and books
+    - RL(DPO,KTO etc) for preference alignment 
+- Multi-relational Dynamic Graph Neural Network for Stock Movement Prediction (2022-2023)
+- Fund Recommendation System Based on Dynamic Graph (2021-2022)
+
+### Projects
+[1] https://github.com/haochen2115/AutoLLM
 
 ### Publications
 [1] **Hao Chen** , Chengju Liu, and Qijun Chen. "Efficient and robust approaches for three-dimensional sound source recognition and localization using humanoid robots sensor arrays." International Journal of Advanced Robotic Systems 17.4 (2020): 1729881420941357.
@@ -40,8 +41,8 @@
 [3] Hao Qian, Hongting Zhou, Qian Zhao, **Hao Chen**, Hongxiang Yao, Jingwei Wang, Ziqi Liu, Fei Yu, Zhiqiang Zhang, and Jun Zhou. "MDGNN: Multi-Relational Dynamic Graph Neural Network for Comprehensive and Dynamic Stock Investment Prediction." arXiv preprint arXiv:2402.06633 (2024).
 
 ### Articles
-[1] TODO
+[Road To AGI] https://www.zhihu.com/column/c_1768575645033091072
 
 ### Contact
 
-**EMAIL**: chenhao_ch@163.com
+**EMAIL**: chenhao_ch@163.com / haochen2115@gmail.com
