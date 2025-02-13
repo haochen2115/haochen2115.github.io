@@ -27,16 +27,18 @@
 - LLM for Financial Agent (2023-Now)
     - Continue pretrain+SFT with financial research report and books
     - DPO for trustful alignment
-    - PPO for financial long-reasoning
+    - PPO for financial reasoning and complex task (e.g. report generation)
 - Multi-relational Dynamic Graph Neural Network for Stock Movement Prediction (2022)
 - Fund Recommendation System Based on Dynamic Graph (2021)
 
 ### Projects
 [1] [AutoLLM](https://github.com/haochen2115/AutoLLM)
 
-[2] [GuidedDPO](https://github.com/haochen2115/GuidedDPO)
+[2] [AgenticRL](https://github.com/haochen2115/AgenticRL)
 
 [3] [GPRM-APPO](https://github.com/haochen2115/GPRM-APPO)
+
+[4] [GuidedDPO](https://github.com/haochen2115/GuidedDPO)
 
 ### Publications
 [1] **Hao Chen** , Chengju Liu, and Qijun Chen. "Efficient and robust approaches for three-dimensional sound source recognition and localization using humanoid robots sensor arrays." International Journal of Advanced Robotic Systems 17.4 (2020): 1729881420941357.
