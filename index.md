@@ -51,7 +51,7 @@
 
 [5] Chenglin, Li, Qianglong Chen, Zhi Li, Feng Tao, Yicheng Li, **Hao Chen**, Fei Yu, and Yin Zhang. "Optimizing Instruction Synthesis: Effective Exploration of Evolutionary Space with Tree Search." In Findings of the Association for Computational Linguistics: EMNLP 2024, pp. 1707-1721. 2024.
 
-### Articles
+### Blogs
 [1] [Road To AGI](https://www.zhihu.com/column/c_1768575645033091072)
 
 ### Contact
