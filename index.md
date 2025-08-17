@@ -23,8 +23,11 @@
 - Smart Car Racing Contest, First Place (2017)
 
 ### Job
-#### Ant Group - Algorithm Engineer (2021-Now)
-- LLM for Financial Agent (2023-Now)
+#### Tencent - Algorithm Engineer (2025-Now)
+- LLM for GameAI
+
+#### Ant Group - Algorithm Engineer (2021-2025)
+- LLM for Financial Agent (2023-2025)
     - Continue pretrain+SFT with financial research report and books
     - DPO for trustful alignment
     - PPO for financial reasoning and complex task (e.g. report generation)
